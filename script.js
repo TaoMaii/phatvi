@@ -4,7 +4,7 @@ console.clear();
 // This is a prime example of what starts out as a simple project
 // and snowballs way beyond its intended size. It's a little clunky
 // reading/working on this single file, but here it is anyways :)
-
+background: url(https://user-images.githubusercontent.com/93439174/211077447-a4540a7e-2bcd-48e6-92cb-f187a952db34.jpeg);
 const IS_MOBILE = window.innerWidth <= 640;
 const IS_DESKTOP = window.innerWidth > 800;
 const IS_HEADER = IS_DESKTOP && window.innerHeight < 300;
