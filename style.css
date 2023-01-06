@@ -328,7 +328,13 @@ body {
 }
 
 html {
-  background: url(https://user-images.githubusercontent.com/93439174/211077447-a4540a7e-2bcd-48e6-92cb-f187a952db34.jpeg);
+  <div class="news">
+    <div class="article">
+        <div class="thumb" style="background-image: url(https://user-images.githubusercontent.com/93439174/211077447-a4540a7e-2bcd-48e6-92cb-f187a952db34.jpeg);">
+  </div>
+        <div class="title"></div>
+    </div>
+</div>
 }
 
 body {
